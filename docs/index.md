@@ -33,7 +33,7 @@ About the project
  * Shreya Bamne
  * Marc Toneato
  * Jonathan Geis  
- ![alt text](img/rebecca.jpg) { width: 200px; }
+ ![alt text](img/rebecca.jpg | width=100)
  ![alt text](img/shreya.jpg) 
  ![alt text](img/marc.jpg)
  ![alt text](img/jonathan.jpg)
