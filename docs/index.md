@@ -33,6 +33,7 @@ About the project
  </div>
  <div>
  * Shreya Bamne
+ ![alt text](img/shreya.jpg =200)
  </div>
  <div>
  * Marc Toneato
