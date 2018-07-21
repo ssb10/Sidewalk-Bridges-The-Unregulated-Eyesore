@@ -29,10 +29,10 @@ About the project
   
  Meet our team:
 
- Rebecca Schneidegger
- Shreya Bamne
+ * Rebecca Schneidegger
+ * Shreya Bamne
  ![alt text](img/shreya.jpg)
- Marc Toneato
- Jonathan Geis
+ * Marc Toneato
+ * Jonathan Geis
 
 
