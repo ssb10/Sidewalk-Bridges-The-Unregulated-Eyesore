@@ -28,18 +28,11 @@ About the project
   ![alt text](img/swb.jpg)
   
  Meet our team:
- <div>
- * Rebecca Schneidegger
- </div>
- <div>
- * Shreya Bamne
- </div>
+
+ Rebecca Schneidegger
+ Shreya Bamne
  ![alt text](img/shreya.jpg)
- <div>
- * Marc Toneato
- </div>
- <div>
- * Jonathan Geis
- </div>
+ Marc Toneato
+ Jonathan Geis
 
 
