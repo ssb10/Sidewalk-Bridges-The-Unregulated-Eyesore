@@ -26,6 +26,6 @@ About the project
 <html>
  <body>
   Welcome CUSP Capstone!
-  ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+  ![alt text](https://github.com/ssb10/Sidewalks_capstone/blob/master/docs/img/swb.jpg)
  </body>
 </html>
