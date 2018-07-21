@@ -26,6 +26,10 @@ About the project
 
  <b> Welcome to CUSP Capstone! </b>
  
- Meet our team here: 
+ Meet our team: 
+ * Rebecca Schneidegger
+ * Shreya Bamne
+ * Marc Toneato
+ * Jonathan Geis
 
 
