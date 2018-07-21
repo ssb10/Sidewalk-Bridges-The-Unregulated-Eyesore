@@ -25,6 +25,7 @@ About the project
 
 <html>
  <body>
-  Welcome to my first Github Page
+  Welcome CUSP Capstone!
+  <img src="img/swb.jpg" height=500px width-600px>
  </body>
 </html>
