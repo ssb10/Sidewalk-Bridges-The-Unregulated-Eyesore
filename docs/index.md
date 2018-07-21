@@ -25,7 +25,7 @@ About the project
 </div> -->
 
  <b> Welcome to CUSP Capstone! </b>
- 
+  ![alt text](https://github.com/ssb10/Sidewalks_capstone/blob/master/docs/img/swb.jpg)
  Meet our team: 
  * Rebecca Schneidegger
  * Shreya Bamne
