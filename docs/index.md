@@ -34,6 +34,6 @@ About the project
  * Marc Toneato
  * Jonathan Geis    
  
- <img src="img/rebecca.jpg" height="300" width="200">
- <img src="img/shreya.jpg">
+ <img src="img/rebecca.jpg" height="2500" width="200">
+ <img src="img/shreya.jpg"  height="2500" width="200">
 
