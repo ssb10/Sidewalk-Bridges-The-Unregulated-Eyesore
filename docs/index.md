@@ -26,6 +26,6 @@ About the project
 <html>
  <body>
   Welcome CUSP Capstone!
-  <img src="img/swb.jpg" height=500px width-600px>
+  ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
  </body>
 </html>
