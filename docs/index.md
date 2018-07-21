@@ -32,7 +32,8 @@ About the project
  * Rebecca Schneidegger
  * Shreya Bamne
  * Marc Toneato
- * Jonathan Geis  
+ * Jonathan Geis    
  
+ <img src="img/rebecca.jpg">
  <img src="img/shreya.jpg">
 
