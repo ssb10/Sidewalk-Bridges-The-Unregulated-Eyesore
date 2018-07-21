@@ -23,10 +23,6 @@ About the project
     <a href="http://output.jsbin.com/ficepeq/1"><button style="font-weight: bold; font-size: 20px; font face: verdana;"> View Maps</button></a>
 </div> -->
 
-<html>
- <body>
-  Welcome CUSP Capstone!
-  
- </body>
-</html>
+ ** Welcome CUSP Capstone! **
+
 ![alt text](https://github.com/ssb10/Sidewalks_capstone/blob/master/docs/img/swb.jpg)
