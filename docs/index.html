@@ -1,4 +1,4 @@
-<h1 style="color: black; padding-left: 40px"> <b> Sidewalk Bridges - The Unregulated Eyesore </b> </h1>
+<!--<h1 style="color: black; padding-left: 40px"> <b> Sidewalk Bridges - The Unregulated Eyesore </b> </h1>
 
 
 <img src="img/swb.jpg" height=500px width=500px alt="My image"/>
@@ -21,4 +21,10 @@ About the project
 <div style=" font-weight: bold; font-size: 20px; font face: verdana; color: black; border:thin Black; border-style : dashed;
  line-height: 30px; padding-top: 6px; padding-left: 6px; padding-bottom: 6px; padding-right: 6px;" align=center>
     <a href="http://output.jsbin.com/ficepeq/1"><button style="font-weight: bold; font-size: 20px; font face: verdana;"> View Maps</button></a>
-</div>
+</div> -->
+
+<html>
+ <body>
+  Welcome to my first Github Page
+ </body>
+</html>
