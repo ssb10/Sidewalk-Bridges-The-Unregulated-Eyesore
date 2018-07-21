@@ -26,10 +26,19 @@ About the project
 
  <b> Welcome to CUSP Capstone! </b>
   ![alt text](img/swb.jpg)
- Meet our team: 
+  
+ Meet our team:
+ <div>
  * Rebecca Schneidegger
+ </div>
+ <div>
  * Shreya Bamne
+ </div>
+ <div>
  * Marc Toneato
+ </div>
+ <div>
  * Jonathan Geis
+ </div>
 
 
