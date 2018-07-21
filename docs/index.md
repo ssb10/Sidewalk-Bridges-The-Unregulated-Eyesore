@@ -25,4 +25,4 @@ About the project
 
  <b> Welcome CUSP Capstone! </b>
 
-![alt text](https://github.com/ssb10/Sidewalks_capstone/blob/master/docs/img/swb.jpg)
+<img src="img/swb/jpg">
