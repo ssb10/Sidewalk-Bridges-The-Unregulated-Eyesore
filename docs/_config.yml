@@ -1,3 +1,4 @@
- url: "https://ssb10.github.io/Sidewalks_capstone/"
+baseurl: ""
+url: "https://ssb10.github.io/Sidewalks_capstone/"
 
 theme: jekyll-theme-cayman
