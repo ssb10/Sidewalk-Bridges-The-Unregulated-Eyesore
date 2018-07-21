@@ -21,8 +21,9 @@ About the project
 <div style=" font-weight: bold; font-size: 20px; font face: verdana; color: black; border:thin Black; border-style : dashed;
  line-height: 30px; padding-top: 6px; padding-left: 6px; padding-bottom: 6px; padding-right: 6px;" align=center>
     <a href="http://output.jsbin.com/ficepeq/1"><button style="font-weight: bold; font-size: 20px; font face: verdana;"> View Maps</button></a>
+    ![alt text](https://github.com/ssb10/Sidewalks_capstone/blob/master/docs/img/swb.jpg)
 </div> -->
 
  <b> Welcome CUSP Capstone! </b>
 
-![alt text](https://github.com/ssb10/Sidewalks_capstone/blob/master/docs/img/swb.jpg)
+
