@@ -18,7 +18,7 @@ The project will provide policy recommendations, as well as visualizations and t
  * Marc Toneato
  * Jonathan Geis    
  
- <img src="img/rebecca.jpg" height="180" width="150">
- <img src="img/shreya.jpg"  height="180" width="150">
- <img src="img/marc.jpg"  height="180" width="150">
- <img src="img/jonathan.jpg"  height="180" width="150">
+ <img src="img/rebecca.jpg" height="160" width="150">
+ <img src="img/shreya.jpg"  height="160" width="150">
+ <img src="img/marc.jpg"  height="160" width="150">
+ <img src="img/jonathan.jpg"  height="160" width="150">
